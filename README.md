@@ -1,16 +1,17 @@
-## Hi there 👋
+# Lucas Roberto Raineri Oliveira
 
-<!--
-**Raineri-CS/Raineri-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with a degree in Computer Science, focusing on backend architecture, systems programming, and data processing. 
 
-Here are some ideas to get you started:
+## Technical Stack
+* Core Languages: Java, Python, C++
+* Backend & Architecture: Spring Boot, Client-Server models, Distributed Systems
+* Data & AI: Exploratory Data Analysis, Multi-Agent Systems (MASPY), Local AI workflow optimization (PyTorch, Stable Diffusion)
+* Infrastructure: Linux system administration, Network Sockets (TCP/IP), Hardware optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio & Projects
+My public repositories highlight foundational computer science concepts, including concurrent programming, network communication, and finite state machines.
+
+Please note: My most recent and robust commercial work—including enterprise-level data processing pipelines and architectural backend implementations—involves real-world corporate data. Due to strict Non-Disclosure Agreements (NDAs), these projects are maintained in private repositories. 
+
+## Academic Background
+* B.S. in Computer Science - Universidade Tecnológica Federal do Paraná (UTFPR)
